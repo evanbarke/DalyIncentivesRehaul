@@ -159,6 +159,5 @@ Potential enhancements for future versions:
 
 For technical support or questions about this system, please contact:
 
-**Evan Benn**  
-Project Lead  
-Email: [evan.benn@dalysoftware.com](mailto:evan.benn@dalysoftware.com)
+**Evan Barke**  
+Email: [evan@samix-technology.com](mailto:evan@samix-technology.com)
